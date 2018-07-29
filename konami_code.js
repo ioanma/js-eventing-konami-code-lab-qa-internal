@@ -17,4 +17,4 @@ function init(e) {
   }
 }
 
-document.body.addEventListener('click', bubble)
+document.body.addEventListener('keydown', init);
